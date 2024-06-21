@@ -1,0 +1,7 @@
+#!/bin/bash
+wine cmd << EOF
+c:
+cd JEUX
+cd COLONIZE
+COLONIZE.BAT
+EOF
